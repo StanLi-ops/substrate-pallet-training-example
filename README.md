@@ -1,0 +1,1 @@
+# substrate-pallet-training-example
